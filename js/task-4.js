@@ -17,4 +17,3 @@ function getShippingCost(country) {
     }
     return getShippingCost;
 }
-
